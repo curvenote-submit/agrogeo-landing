@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 9c2b8608-55f6-4c71-b72f-fcd7ad526a21
+  title: Agrogeo Abstracts
+  toc:
+    - file: index.md
+    - file: 2024.md
+    - file: 2026.md
+    - file: articles.md
+site:
+  template: book-theme
+  nav:
+    - title: Conference Website
+      url: https://agrogeophy.github.io/agrogeo26
+    - title: 2026 Abstracts
+      url: /2026
+    - title: 2024 Abstracts
+      url: /2024
